@@ -3,6 +3,6 @@ chardet==3.0.3
 idna==2.5
 requests==2.16.4
 soco==0.12
-urllib3==1.24.2
+urllib3==1.26.5
 XML2Dict==0.2.2
 xmltodict==0.11.0
